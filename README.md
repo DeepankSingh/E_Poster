@@ -65,8 +65,6 @@ npm run preview
 
 📌 Future Improvements
 
-🔑 User authentication & login
-
 💳 Payment gateway integration
 
 📦 Order management system
